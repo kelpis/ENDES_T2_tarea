@@ -68,7 +68,7 @@ Otros aspectos de interés
 El VS Code se considera la evolución del Bloc de notas ya que ambos editores fueron desarrollados por Microsoft.
 El primero se diseñó como sustituto y alternativa al primero para poder dar respuesta a tareas cada vez más avanzadas.
 
-SUBTAREA 3 TU HERRAMIENTA FAVORITA
+SUBTAREA 3 TU HERRAMIENTA FAVORITA (IDE o CASE)
 
 Con los conocimientos que hasta ahora tengo no me atrevería a decir que IDE o herramienta CASE me podría a ayudar más en mí el futuro. Me voy a basar en uno de los IDEs que de momento he podido utilizar, Apache NetBeans.
 Netbeans es básicamente un entorno de desarrollo integrado (IDE) de código abierto que utilizamos para el desarrollo de aplicaciones en lenguaje de programación Java.
