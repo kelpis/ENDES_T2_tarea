@@ -67,3 +67,22 @@ Por el contrario, VS Code se caracteriza por su énfasis en la personalización 
 Otros aspectos de interés
 El VS Code se considera la evolución del Bloc de notas ya que ambos editores fueron desarrollados por Microsoft.
 El primero se diseñó como sustituto y alternativa al primero para poder dar respuesta a tareas cada vez más avanzadas.
+
+SUBTAREA 3 TU HERRAMIENTA FAVORITA
+
+Con los conocimientos que hasta ahora tengo no me atrevería a decir que IDE o herramienta CASE me podría a ayudar más en mí el futuro. Me voy a basar en uno de los IDEs que de momento he podido utilizar, Apache NetBeans.
+Netbeans es básicamente un entorno de desarrollo integrado (IDE) de código abierto que utilizamos para el desarrollo de aplicaciones en lenguaje de programación Java.
+Aunque no se clasifica como una herramienta CASE, Netbeans tiene características que pueden ser consideradas como parte del desarrollo de software y del enfoque CASE.
+
+Algunas de las características que tiene este IDE y que creo que me van a ahorrar trabajo son:
+•	Tiene soporte para varios lenguajes de programación; cuando aprenda más lenguajes será útil que sean compatibles en el mismo IDE.
+•	Su editor de código tiene la función de resaltado de sintaxis que facilita la correcta escritura del codigo.
+•	Autocompletado y plantillas de código; que ayudan a escribir más rápido el código.
+•	Integra sistemas de control de versiones en este caso Git, para poder crear repositorio de los proyectos que haga.
+•	Depurador; ayuda a encontrar y corregir los errores en los programas
+
+Posee otras funcionalidades que aun no use, pero que puedo intuir que me van a facilitar la labor:
+•	Herramientas de base de datos: proporciona herramientas para conectar y gestionar bases de datos.
+•	Constructor de interfaz gráfica de usuario: facilita la creación de interfaces visuales para aplicaciones Java.
+•	Extensiones: para incorporar nuevas funcionalidades.
+
